@@ -1,0 +1,2 @@
+# Exercitiu
+Un simplu exercitiu
